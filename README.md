@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Juan Diego Quintero, i'm currently learning about Full Stack programming using MERN Stack. Here you can found great projects with React, NodeJs, HTML and CSS.
+I'm Juan Diego Quintero Calderón, I love cloud and new challenges.
 
 Reach me on LinkedIn (https://www.linkedin.com/in/juan-diego-quintero-calderon/) or email me (jdquinterocg@gmail.com)
 <!--
