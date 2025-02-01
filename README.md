@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Juan Diego Quintero Calderón, I love cloud and new challenges.
 
-Reach me on LinkedIn (https://www.linkedin.com/in/juan-diego-quintero-calderon/) or email me (jdquinterocg@gmail.com)
+Reach me on LinkedIn (https://www.linkedin.com/in/jdquinterocg/) or email me (jdquinterocg@gmail.com)
 <!--
 **Jdquinterocg/jdquinterocg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
